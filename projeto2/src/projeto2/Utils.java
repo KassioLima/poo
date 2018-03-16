@@ -14,7 +14,6 @@ public class Utils
 			Cachorro k = (Cachorro)a;
 			k.latir();
 		}
-		a.correr();
 		//a.miar(); animal não tem o método miar, pois nem todo animal é um gato
 	}
 }
