@@ -2,8 +2,8 @@ package projeto2;
 
 public class Cachorro extends Animal
 {
-	public void latir()
+	public void correr()
 	{
-		System.out.println("CACHORRO LATINDO");
+		System.out.println("Cachorro "+this.getNome()+" CORRENDO");
 	}
 }
